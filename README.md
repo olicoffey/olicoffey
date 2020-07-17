@@ -1,5 +1,4 @@
 ### Here is what I'm working on
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 14 week full-stack java bootcamp
 - 🌱 I’m currently learning ... JavaScript 
